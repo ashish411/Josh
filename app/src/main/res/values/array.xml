@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="options_array">
+        <item>Sports</item>
+        <item>News</item>
+        <item>Motivational</item>
+        <item>Self Confidence</item>
+    </string-array>
+    
+</resources>

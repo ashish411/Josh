@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Josh</string>
+    <string name="facebook_app_id">2157896691157702</string>
+    <string name="fb_login_protocol_scheme">fb2157896691157702</string>
+    <string name="logOut">Log Out</string>
+    <string name="playVideo">Play Video</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="notfctn">Send Notification</string>
+
+</resources>
